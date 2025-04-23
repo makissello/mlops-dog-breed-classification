@@ -2,7 +2,7 @@
 
 ## 👋 About This Project
 
-In this project, I started with a completed image classification model for dog breed classification, which had already been trained and deployed on AWS SageMaker. My goal was to take that initial ML codebase and bring it up to **production-grade standards** by integrating it with AWS services and optimizing for scalability, cost-efficiency, and security.
+In this project, I trained and deployed an image classification model for dog breed classification using AWS SageMaker. I started with a complete ML workflow and focused on adapting it for **production-grade deployment**. This involved configuring the entire pipeline to be scalable, cost-efficient, and secure using several key AWS tools and services. My goal was to turn research-grade code into a real-world machine learning product.
 
 ## ✅ What I Did
 
